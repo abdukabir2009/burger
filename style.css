@@ -1,0 +1,52 @@
+body{
+    background-image: url(./img/bg.jpg);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wrap1{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    
+}
+.dollar{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    color: white;
+}
+.dollar{
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrap2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn1{
+    width: 120px;
+    height: 50px;
+    border-radius: 20%;
+    background-color: red;
+}
+.btn2{
+    width: 200px;
+    height: 50px;
+
+    background-color: yellow;
+}
+    
